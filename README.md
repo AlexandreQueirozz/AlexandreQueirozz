@@ -32,6 +32,6 @@ I am a Data Analyst with a unique background blending **industrial operations ma
 ### 🌍 Connect with Me
 * **Location:** Barcelona, Spain 🇪🇸
 * **Languages:** English (B1), Spanish (B1), Portuguese (Native)
-* **LinkedIn:** [Alexandre.Queiroz](https://www.linkedin.com/in/alexandre-queiroz-46733234b/)
+* **LinkedIn:** [Alexandre.Queiroz](https://www.linkedin.com/in/j-alexandre-costa-queiroz-5355a5221/)
 
 ---
