@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alexandre.
 
-#### **Data Analyst | Bridging Industrial Management & Enterprise Analytics | Based in Barcelona 🇪🇸**
+#### **Data Engineer | Bridging Industrial Management & Enterprise Analytics | Based in Barcelona 🇪🇸**
 
 I am a Data Analyst with a unique background blending **industrial operations management** and **multidisciplinary enterprise analytics (ex-Capgemini)**. I specialize in turning complex operational data into actionable business insights, optimizing processes, and driving efficiency.
 
